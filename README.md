@@ -100,15 +100,3 @@
 <div align="center">
   <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=eragarg&theme=dark" alt="3D GitHub Contributions" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eragarg&theme=tokyo-night" alt="GitHub Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <p>⚡ <i>Building efficient software solutions, clean web interfaces, and strong Information Technology fundamentals.</i></p>
-</div>
